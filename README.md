@@ -17,8 +17,8 @@
 - Ensure you have python installed.
 
 - Logic for calculator:
-  - mary_calculator.py
+  - [mary_calculator.py](https://github.com/maryjonah-turntabl/Python-Training/blob/main/mary_calculator.py)
 - Tests for logic:
-  - mary_calculator_test.py
+  - [mary_calculator_test.py](https://github.com/maryjonah-turntabl/Python-Training/blob/main/mary_calculator_test.py)
 
 **NB**: I am looking forward to replicating the task in Flask.

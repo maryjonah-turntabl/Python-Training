@@ -1,4 +1,6 @@
+from audioop import mul
 import math
+from re import sub
 
 def addNumbers(num1, num2):
     return num1 + num2
@@ -26,3 +28,11 @@ def naturalLogNumbers(base):
     if base <= 0:
         raise ValueError("Base cannot be 0 or lower than 0")
     return math.log(base)
+
+addNumbers(10, 20)
+subtractNumbers(20, 8)
+multiplyNumbers(10, 2)
+# divideNumbers(2, 0)
+moduloNumbers(10, 3)
+exponentNumbers(0)
+naturalLogNumbers(2)
